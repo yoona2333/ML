@@ -1,0 +1,10 @@
+# 统一换行与文本处理
+* text=auto eol=lf
+*.md text eol=lf
+
+# 图片按二进制处理
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
